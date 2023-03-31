@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: orange;
+  color: #F2A900;
 }
 
 hr {
@@ -42,10 +42,14 @@ img {
 
 .skills:hover {
   font-weight: bold;
-  color: orange;
+  color: #F2A900;
 }
 
 .sheadings {
   color: #3795BD;
 }
 
+#btc {
+  align: center;
+  height: 350px;
+}
