@@ -1,0 +1,51 @@
+html {
+  display: table;
+  margin: auto;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #393E46;
+  color: #EEEEEE;
+  display: table-cell;
+  vertical-align: middle;
+
+}
+
+h1, h3 {
+  color: #C9EEFF;
+}
+
+a {
+  color: #00ADB5;
+}
+
+a:hover {
+  color: orange;
+}
+
+hr {
+  border-color: #222831;
+  border-style: dotted none none;
+  border-width: 10px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  width: 75%;
+}
+
+img {
+  height: 180px;
+}
+
+.skills:hover {
+  font-weight: bold;
+  color: orange;
+}
+
+.sheadings {
+  color: #3795BD;
+}
+
